@@ -1,0 +1,15 @@
+.Calculator {
+  width: 75%;
+  margin: 0 auto;
+}
+.Screen {
+  text-align: right;
+  padding: 0 10px 10px;
+}
+.activeLine {
+  font-size: 3.2rem;
+}
+.resultLine {
+  font-size: 2rem;
+  color: #fff5;
+}

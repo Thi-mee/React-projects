@@ -1,0 +1,13 @@
+/* .Portal {
+
+} */
+.PageLayout {
+  position: relative;
+  display: flex;
+  /* min-height: calc(100vh - 7rem);*/
+}
+.PageLayout main {
+  width: calc(100% - var(--sidebar-width));
+  height: calc(100vh - 7rem);
+  overflow: auto;
+}

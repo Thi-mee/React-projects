@@ -1,0 +1,12 @@
+.TodoItem {
+  width: 60%;
+  margin: 0 auto;
+  background-color: #ccc3;
+  padding: 1em;
+  border-radius: .5em;
+  margin-bottom: 1em;
+  border-left: 1em solid transparent;
+}
+.TodoItem.Completed {
+  border-left: 1em solid green;
+}
